@@ -1,0 +1,29 @@
+#divmaster {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-left: auto;
+    margin-right: auto;
+    flex-direction: column;
+    background-color: rgb(193, 255, 255);
+    width: 800px;
+    height: 200px;
+}
+
+
+
+h1 {
+    font-family: Arial;
+    text-align: center;
+}
+
+#div1 {
+    display: flex;
+    justify-content: center;
+    
+}
+
+#campo1 {
+    width: 140px;
+    height: 17px;
+}
